@@ -1,0 +1,6 @@
+{
+  "name": "AttendAI — Virtual Coordinator & Attendance System",
+  "description": "Automated student attendance management system with ElevenLabs AI Agent outbound calling and Supabase backend integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
